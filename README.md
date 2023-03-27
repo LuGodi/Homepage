@@ -37,4 +37,8 @@ To see a **live demo of the website**, click [here](https://lugodi.github.io/Hom
 ## Layout 🎫
 Really quick layout just for practice purposes
 
+## Bugs 🐛
+  If you come across any bugs while using this website, please report them by opening an issue on this GitHub repository.<br>
+Your feedback means a lot and can help me improve the quality of the project.<br> Thank you!
+
 
